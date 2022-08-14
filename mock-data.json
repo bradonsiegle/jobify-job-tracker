@@ -1,0 +1,191 @@
+[
+	{
+		"company": "Ortiz-Schmidt",
+		"position": "Quality Control Specialist",
+		"jobLocation": "Tempe",
+		"jobType": "part-time",
+		"status": "declined",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2022-02-14T00:14:44Z"
+	},
+	{
+		"company": "Beatty Group",
+		"position": "Budget/Accounting Analyst II",
+		"jobLocation": "Río de Oro",
+		"jobType": "full-time",
+		"status": "interview",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2020-12-28T20:43:56Z"
+	},
+	{
+		"company": "Morar Group",
+		"position": "Speech Pathologist",
+		"jobLocation": "Yinjiang",
+		"jobType": "remote",
+		"status": "interview",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2022-01-03T06:38:33Z"
+	},
+	{
+		"company": "Luettgen and Sons",
+		"position": "Dental Hygienist",
+		"jobLocation": "Zhaoxiang",
+		"jobType": "remote",
+		"status": "declined",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2022-07-03T01:06:40Z"
+	},
+	{
+		"company": "Torphy, Strosin and Raynor",
+		"position": "Developer III",
+		"jobLocation": "Fayaoué",
+		"jobType": "full-time",
+		"status": "declined",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2021-06-25T16:27:25Z"
+	},
+	{
+		"company": "Swift and Sons",
+		"position": "Compensation Analyst",
+		"jobLocation": "Nanchoc",
+		"jobType": "full-time",
+		"status": "pending",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2021-03-26T19:44:21Z"
+	},
+	{
+		"company": "Deckow and Sons",
+		"position": "Help Desk Operator",
+		"jobLocation": "Besançon",
+		"jobType": "full-time",
+		"status": "interview",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2021-01-23T23:52:58Z"
+	},
+	{
+		"company": "Feil Inc",
+		"position": "Sales Associate",
+		"jobLocation": "Białobrzegi",
+		"jobType": "full-time",
+		"status": "pending",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2021-07-18T14:46:14Z"
+	},
+	{
+		"company": "Buckridge-Rogahn",
+		"position": "Clinical Specialist",
+		"jobLocation": "Keelung",
+		"jobType": "internship",
+		"status": "declined",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2021-06-01T09:01:03Z"
+	},
+	{
+		"company": "Moore, Okuneva and Stamm",
+		"position": "VP Accounting",
+		"jobLocation": "Täby",
+		"jobType": "remote",
+		"status": "declined",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2022-02-07T18:17:45Z"
+	},
+	{
+		"company": "Bauch-Hahn",
+		"position": "VP Sales",
+		"jobLocation": "Banyulegi",
+		"jobType": "full-time",
+		"status": "pending",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2021-03-03T03:00:06Z"
+	},
+	{
+		"company": "Boehm-Gleason",
+		"position": "Computer Systems Analyst IV",
+		"jobLocation": "Qianjia",
+		"jobType": "remote",
+		"status": "declined",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2022-02-03T09:27:40Z"
+	},
+	{
+		"company": "Rau, Jaskolski and Stamm",
+		"position": "Accounting Assistant II",
+		"jobLocation": "Guilherand-Granges",
+		"jobType": "part-time",
+		"status": "declined",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2020-11-12T06:53:58Z"
+	},
+	{
+		"company": "Cummings-Kertzmann",
+		"position": "Help Desk Technician",
+		"jobLocation": "Montenegro",
+		"jobType": "remote",
+		"status": "declined",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2021-12-13T19:12:42Z"
+	},
+	{
+		"company": "Torp-Weissnat",
+		"position": "Social Worker",
+		"jobLocation": "Lingquan",
+		"jobType": "part-time",
+		"status": "interview",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2020-09-05T14:02:31Z"
+	},
+	{
+		"company": "Sporer-Lubowitz",
+		"position": "Physical Therapy Assistant",
+		"jobLocation": "Nanping",
+		"jobType": "remote",
+		"status": "interview",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2022-02-04T00:23:15Z"
+	},
+	{
+		"company": "Fahey LLC",
+		"position": "Nurse",
+		"jobLocation": "Cheping",
+		"jobType": "internship",
+		"status": "pending",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2022-01-09T13:33:48Z"
+	},
+	{
+		"company": "Mayert LLC",
+		"position": "VP Product Management",
+		"jobLocation": "Tuchomie",
+		"jobType": "internship",
+		"status": "pending",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2020-11-23T20:47:24Z"
+	},
+	{
+		"company": "Leannon-Collier",
+		"position": "Geologist II",
+		"jobLocation": "Parobé",
+		"jobType": "full-time",
+		"status": "interview",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2020-09-23T22:10:56Z"
+	},
+	{
+		"company": "Bogan, Wolff and Bergstrom",
+		"position": "General Manager",
+		"jobLocation": "Zakamensk",
+		"jobType": "full-time",
+		"status": "interview",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2021-09-11T03:38:59Z"
+	},
+	{
+		"company": "Considine LLC",
+		"position": "Senior Sales Associate",
+		"jobLocation": "Butembo",
+		"jobType": "remote",
+		"status": "interview",
+		"createdBy": "62e70a24eb0cbca3325b0e33",
+		"createdAt": "2021-07-04T13:07:00Z"
+	}
+]
